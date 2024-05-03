@@ -1,0 +1,22 @@
+body{
+	background: gray;
+
+}
+h3{
+	color: black;
+	font-size: 30px;
+	background-color:#ffffff6d; 
+}
+.mg{
+	display: inline-block;
+	margin-left: 40px;
+}
+.mg p{
+	font-size: 20px;
+
+}
+footer{
+	border: 2px solid;
+	padding: 30px;
+	background-image: url(C:\Users\gurav\OneDrive\Pictures\produkt1.jpg);
+}
