@@ -18,5 +18,10 @@ h3{
 footer{
 	border: 2px solid;
 	padding: 30px;
-	background-image: url(C:\Users\gurav\OneDrive\Pictures\produkt1.jpg);
+	background-image: url(C:\Users\gurav\OneDrive\Pictures\produkt1.jpg );
+}
+footer li a{
+	color: black;
+	text-decoration: none;
+	list-style: none;
 }
